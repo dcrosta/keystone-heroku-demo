@@ -1,0 +1,2 @@
+keystone == 0.2.0
+gunicorn >= 0.13.4
